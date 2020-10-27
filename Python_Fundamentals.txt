@@ -1,0 +1,10 @@
+!pip install numpy
+!pip install pandas
+!pip install matplotlib
+
+import numpy as np
+import numpy.linalg as npl
+import pandas as pd
+from IPython.core.interactiveshell import InteractiveShell
+
+InteractiveShell.ast_node_interactivity = "all"
